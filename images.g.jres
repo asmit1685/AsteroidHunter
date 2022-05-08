@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAD/DwAAAAAA8CLyAAAAAAAvIiIPAAAA8CIiIvIAAADwIiIiIg8AAPAiIiIi8gAAAC8iIiIiDwAALyIiIiIPAAAvIiIiIg8A8CIiIiLyAADwIiIiIg8AAPAiIiLyAAAAAC8iIg8AAAAA8CLyAAAAAAAA/w8AAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "heart"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPD/AAAAAAAALyIPAAAAAAAvIvIAAAAAAPAiIg8AAAAA8CIiDwAAAAAvIvIAAAAAAC8iDwAAAAAA8P8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
